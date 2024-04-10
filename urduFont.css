@@ -1,0 +1,32 @@
+@font-face {
+   font-family: AA Sameer Qamri Regular;
+   src: url('/urduFont/AA Sameer Qamri Regular.ttf');
+ }
+@font-face{
+   font-family: Aayat Quraan_034 Regular;
+   src: url('/urduFont/Aayat Quraan_034 Regular.ttf');
+ }
+  @font-face{
+   font-family: Akbar Akbar;
+   src: url('/urduFont/Akbar Akbar.ttf');
+ }
+  @font-face{
+   font-family: alqalam AlQalam Fakhar Naveed;
+   src: url('/urduFont/alqalam AlQalam Fakhar Naveed.ttf');
+  }
+  @font-face{
+   font-family: Gandhara Suls Regular;
+   src: url('/urduFont/Gandhara Suls Regular.ttf');
+  }
+  @font-face{
+   font-family: Photex Decorative Nastalique Regular;
+   src: url('/urduFont/Photex Decorative Nastalique Regular.ttf');
+  }
+  @font-face{
+   font-family: Jameel Noori Nastaleeq;
+   src: url('/urduFont/Jameel Noori Nastaleeq.ttf');
+  }
+  @font-face{
+   font-family: Jameel Noori Kasheeda;
+   src: url('/urduFont/Jameel Noori Kasheeda.ttf');
+  }
